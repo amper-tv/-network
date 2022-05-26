@@ -1,0 +1,131 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Canal de las estrellas" tvg-logo="http://heinentv.ddns.me/LogosCanales/Las%20Estrellas.jpg" group-title="LOCALES MEXICO",Canal de las estrellas
+http://heinentv.ddns.me:25461/live/ACFLIX/mhgHOFLjp/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Azteca 7" tvg-logo="http://heinentv.ddns.me/LogosCanales/Azteca%207.jpg" group-title="LOCALES MEXICO",Azteca 7
+http://heinentv.ddns.me:25461/live/ACFLIX/mhgHOFLjp/2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 5" tvg-logo="http://heinentv.ddns.me/LogosCanales/Canal%205.jpg" group-title="LOCALES MEXICO",Canal 5
+http://heinentv.ddns.me:25461/live/ACFLIX/mhgHOFLjp/9.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ImagenTV" tvg-logo="http://heinentv.ddns.me/LogosCanales/Imagen%20TV.jpg" group-title="LOCALES MEXICO",ImagenTV
+http://heinentv.ddns.me:25461/live/ACFLIX/mhgHOFLjp/8.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADN 40" tvg-logo="http://heinentv.ddns.me/LogosCanales/ADN%2040.jpg" group-title="LOCALES MEXICO",ADN 40
+http://heinentv.ddns.me:25461/live/ACFLIX/mhgHOFLjp/7.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Multimedios" tvg-logo="http://heinentv.ddns.me/LogosCanales/Multimedios.jpg" group-title="LOCALES MEXICO",Multimedios
+http://heinentv.ddns.me:25461/live/ACFLIX/mhgHOFLjp/5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Azteca uno" tvg-logo="http://heinentv.ddns.me/LogosCanales/Azteca%20Uno.jpg" group-title="LOCALES MEXICO",Azteca uno
+http://heinentv.ddns.me:25461/live/ACFLIX/mhgHOFLjp/3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 1" tvg-logo="http://heinentv.ddns.me/LogosCanales/ESPN.jpg" group-title="DEPORTES",ESPN 1
+http://heinentv.ddns.me:25461/live/ACFLIX/mhgHOFLjp/79.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="http://heinentv.ddns.me/LogosCanales/ESPN%202.jpg" group-title="DEPORTES",ESPN 2
+http://heinentv.ddns.me:25461/live/ACFLIX/mhgHOFLjp/80.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3" tvg-logo="http://heinentv.ddns.me/LogosCanales/ESPN%203.jpg" group-title="DEPORTES",ESPN 3
+http://heinentv.ddns.me:25461/live/ACFLIX/mhgHOFLjp/81.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports N" tvg-logo="http://heinentv.ddns.me/LogosCanales/Bein%20Sports%20N.jpg" group-title="DEPORTES",Bein Sports N
+http://heinentv.ddns.me:25461/live/ACFLIX/mhgHOFLjp/78.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1" tvg-logo="http://heinentv.ddns.me/LogosCanales/Fox%20Sports%201.jpg" group-title="DEPORTES",Fox Sports 1
+http://heinentv.ddns.me:25461/live/ACFLIX/mhgHOFLjp/82.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 3" tvg-logo="http://heinentv.ddns.me/LogosCanales/Fox%20Sports%203.jpg" group-title="DEPORTES",Fox Sports 3
+http://heinentv.ddns.me:25461/live/ACFLIX/mhgHOFLjp/84.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UFC" tvg-logo="http://heinentv.ddns.me/LogosCanales/UFC.jpg" group-title="DEPORTES",UFC
+http://heinentv.ddns.me:25461/live/ACFLIX/mhgHOFLjp/85.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WWE" tvg-logo="http://heinentv.ddns.me/LogosCanales/WWE.jpg" group-title="DEPORTES",WWE
+http://heinentv.ddns.me:25461/live/ACFLIX/mhgHOFLjp/86.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GOL TV" tvg-logo="http://heinentv.ddns.me/LogosCanales/GolTV.jpg" group-title="DEPORTES",GOL TV
+http://heinentv.ddns.me:25461/live/ACFLIX/mhgHOFLjp/87.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX DEPORTES" tvg-logo="http://heinentv.ddns.me/LogosCanales/Fox%20Deportes.jpg" group-title="DEPORTES",FOX DEPORTES
+http://heinentv.ddns.me:25461/live/ACFLIX/mhgHOFLjp/91.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN DEPORTES" tvg-logo="http://heinentv.ddns.me/LogosCanales/ESPN%20Deportes.jpg" group-title="DEPORTES",ESPN DEPORTES
+http://heinentv.ddns.me:25461/live/ACFLIX/mhgHOFLjp/92.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TUDN USA" tvg-logo="http://heinentv.ddns.me/LogosCanales/TUDN.jpg" group-title="DEPORTES",TUDN USA
+http://heinentv.ddns.me:25461/live/ACFLIX/mhgHOFLjp/132.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS MEX" tvg-logo="" group-title="DEPORTES",TNT SPORTS MEX
+http://heinentv.ddns.me:25461/live/ACFLIX/mhgHOFLjp/19366.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports" tvg-logo="http://heinentv.ddns.me/LogosCanales/TNT%20Sports.jpg" group-title="DEPORTES",TNT Sports
+http://heinentv.ddns.me:25461/live/ACFLIX/mhgHOFLjp/88.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RAYADOS CANAL 1" tvg-logo="http://heinentv.ddns.me/LogosCanales/Rayados.jpg" group-title="EVENTOS ESPECIALES",RAYADOS CANAL 1
+http://heinentv.ddns.me:25461/live/ACFLIX/mhgHOFLjp/9441.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TIGRES CANAL 1" tvg-logo="http://heinentv.ddns.me/LogosCanales/Tigres.jpg" group-title="EVENTOS ESPECIALES",TIGRES CANAL 1
+http://heinentv.ddns.me:25461/live/ACFLIX/mhgHOFLjp/9443.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="F1" tvg-logo="http://heinentv.ddns.me/LogosCanales/Formula%201.png" group-title="EVENTOS ESPECIALES",F1
+http://heinentv.ddns.me:25461/live/ACFLIX/mhgHOFLjp/11524.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="http://heinentv.ddns.me/LogosCanales/HBO.jpg" group-title="PELICULAS",HBO
+http://heinentv.ddns.me:25461/live/ACFLIX/mhgHOFLjp/135.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-logo="http://heinentv.ddns.me/LogosCanales/HBO%20Signature.jpg" group-title="PELICULAS",HBO Signature
+http://heinentv.ddns.me:25461/live/ACFLIX/mhgHOFLjp/136.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="http://heinentv.ddns.me/LogosCanales/HBO%20Family.jpg" group-title="PELICULAS",HBO Family
+http://heinentv.ddns.me:25461/live/ACFLIX/mhgHOFLjp/137.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-logo="http://heinentv.ddns.me/LogosCanales/HBO%202.jpg" group-title="PELICULAS",HBO 2
+http://heinentv.ddns.me:25461/live/ACFLIX/mhgHOFLjp/138.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus" tvg-logo="http://heinentv.ddns.me/LogosCanales/HBO%20Plus.jpg" group-title="PELICULAS",HBO Plus
+http://heinentv.ddns.me:25461/live/ACFLIX/mhgHOFLjp/139.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="http://heinentv.ddns.me/LogosCanales/TNT.jpg" group-title="PELICULAS",TNT
+http://heinentv.ddns.me:25461/live/ACFLIX/mhgHOFLjp/145.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinecanal" tvg-logo="http://heinentv.ddns.me/LogosCanales/Cinecanal.jpg" group-title="PELICULAS",Cinecanal
+http://heinentv.ddns.me:25461/live/ACFLIX/mhgHOFLjp/147.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Golden Plus" tvg-logo="http://heinentv.ddns.me/LogosCanales/Golden.jpg" group-title="PELICULAS",Golden Plus
+http://heinentv.ddns.me:25461/live/ACFLIX/mhgHOFLjp/149.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="http://heinentv.ddns.me/LogosCanales/Cinemax.jpg" group-title="PELICULAS",Cinemax
+http://heinentv.ddns.me:25461/live/ACFLIX/mhgHOFLjp/157.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="De Pelicula" tvg-logo="http://heinentv.ddns.me/LogosCanales/De%20Pelicula.jpg" group-title="PELICULAS",De Pelicula
+http://heinentv.ddns.me:25461/live/ACFLIX/mhgHOFLjp/158.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA | Telemundo" tvg-logo="http://heinentv.ddns.me/LogosCanales/Telemundo.jpg" group-title="LATINOSUSA",USA | Telemundo
+http://heinentv.ddns.me:25461/live/ACFLIX/mhgHOFLjp/3558.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA | UNIVISION" tvg-logo="http://heinentv.ddns.me/LogosCanales/Univision.jpg" group-title="LATINOSUSA",USA | UNIVISION
+http://heinentv.ddns.me:25461/live/ACFLIX/mhgHOFLjp/3619.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Space" tvg-logo="http://heinentv.ddns.me/LogosCanales/Space.jpg" group-title="PELICULAS",Space
+http://heinentv.ddns.me:25461/live/ACFLIX/mhgHOFLjp/148.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="http://heinentv.ddns.me/LogosCanales/Discovery%20Channel.jpg" group-title="CULTURA",Discovery Channel
+http://heinentv.ddns.me:25461/live/ACFLIX/mhgHOFLjp/55.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo" tvg-logo="http://heinentv.ddns.me/LogosCanales/Discovery%20Turbo.jpg" group-title="CULTURA",Discovery Turbo
+http://heinentv.ddns.me:25461/live/ACFLIX/mhgHOFLjp/62.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony" tvg-logo="http://heinentv.ddns.me/LogosCanales/Sony.jpg" group-title="ENTRETENIMIENTO",Sony
+http://heinentv.ddns.me:25461/live/ACFLIX/mhgHOFLjp/28.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Life" tvg-logo="http://heinentv.ddns.me/LogosCanales/Fox%20Life.jpg" group-title="ENTRETENIMIENTO",Fox Life
+http://heinentv.ddns.me:25461/live/ACFLIX/mhgHOFLjp/24.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery h&h" tvg-logo="http://heinentv.ddns.me/LogosCanales/Discovery%20HH.jpg" group-title="ENTRETENIMIENTO",Discovery h&h
+http://heinentv.ddns.me:25461/live/ACFLIX/mhgHOFLjp/22.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TL NOVELAS" tvg-logo="http://heinentv.ddns.me/LogosCanales/TL%20Novelas.jpg" group-title="ENTRETENIMIENTO",TL NOVELAS
+http://heinentv.ddns.me:25461/live/ACFLIX/mhgHOFLjp/35.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central" tvg-logo="http://heinentv.ddns.me/LogosCanales/Comedy%20Central.jpg" group-title="ENTRETENIMIENTO",Comedy Central
+http://heinentv.ddns.me:25461/live/ACFLIX/mhgHOFLjp/21.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery kids" tvg-logo="http://heinentv.ddns.me/LogosCanales/Discovery%20Kids.jpg" group-title="INFANTIL",Discovery kids
+http://heinentv.ddns.me:25461/live/ACFLIX/mhgHOFLjp/76.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="http://heinentv.ddns.me/LogosCanales/Cartoon%20Network.jpg" group-title="INFANTIL",Cartoon Network
+http://heinentv.ddns.me:25461/live/ACFLIX/mhgHOFLjp/75.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney Jr" tvg-logo="http://heinentv.ddns.me/LogosCanales/Disney%20Jr.jpg" group-title="INFANTIL",Disney Jr
+http://heinentv.ddns.me:25461/live/ACFLIX/mhgHOFLjp/74.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="http://heinentv.ddns.me/LogosCanales/Disney%20Channel.jpg" group-title="INFANTIL",Disney Channel
+http://heinentv.ddns.me:25461/live/ACFLIX/mhgHOFLjp/73.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD" tvg-logo="http://heinentv.ddns.me/LogosCanales/Disney%20XD.jpg" group-title="INFANTIL",Disney XD
+http://heinentv.ddns.me:25461/live/ACFLIX/mhgHOFLjp/72.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr" tvg-logo="http://heinentv.ddns.me/LogosCanales/Nick%20jr.jpg" group-title="INFANTIL",Nick Jr
+http://heinentv.ddns.me:25461/live/ACFLIX/mhgHOFLjp/69.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nick" tvg-logo="http://heinentv.ddns.me/LogosCanales/Nick.jpg" group-title="INFANTIL",Nick
+http://heinentv.ddns.me:25461/live/ACFLIX/mhgHOFLjp/21289.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BOB ESPONJA" tvg-logo="" group-title="24/7",24/7 BOB ESPONJA
+http://heinentv.ddns.me:25461/live/ACFLIX/mhgHOFLjp/3243.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SUPER CAMPEONES" tvg-logo="" group-title="24/7",24/7 SUPER CAMPEONES
+http://heinentv.ddns.me:25461/live/ACFLIX/mhgHOFLjp/3240.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SPIDERMAN" tvg-logo="" group-title="24/7",24/7 SPIDERMAN
+http://heinentv.ddns.me:25461/live/ACFLIX/mhgHOFLjp/3242.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Simpsons Temp 1-5" tvg-logo="" group-title="24/7",24/7 Los Simpsons Temp 1-5
+http://heinentv.ddns.me:25461/live/ACFLIX/mhgHOFLjp/3235.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 POKEMON" tvg-logo="" group-title="24/7",24/7 POKEMON
+http://heinentv.ddns.me:25461/live/ACFLIX/mhgHOFLjp/3230.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball z" tvg-logo="" group-title="24/7",24/7 Dragon Ball z
+http://heinentv.ddns.me:25461/live/ACFLIX/mhgHOFLjp/3228.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="I-NeT Flix Live 1 HD" tvg-logo="" group-title="PELICULAS",I-NeT Flix Live 1 HD
+http://heinentv.ddns.me:25461/live/ACFLIX/mhgHOFLjp/22176.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="I-NeT Flix Live 2 HD" tvg-logo="" group-title="PELICULAS",I-NeT Flix Live 2 HD
+http://heinentv.ddns.me:25461/live/ACFLIX/mhgHOFLjp/22177.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="I-NeT Flix Live 3 HD" tvg-logo="" group-title="PELICULAS",I-NeT Flix Live 3 HD
+http://heinentv.ddns.me:25461/live/ACFLIX/mhgHOFLjp/22178.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="I-NeT Flix Live 4 HD" tvg-logo="" group-title="PELICULAS",I-NeT Flix Live 4 HD
+http://heinentv.ddns.me:25461/live/ACFLIX/mhgHOFLjp/22179.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="I-NeT Flix Live 5 HD" tvg-logo="" group-title="PELICULAS",I-NeT Flix Live 5 HD
+http://heinentv.ddns.me:25461/live/ACFLIX/mhgHOFLjp/22180.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="I-NeT Flix Live 6 HD" tvg-logo="" group-title="PELICULAS",I-NeT Flix Live 6 HD
+http://heinentv.ddns.me:25461/live/ACFLIX/mhgHOFLjp/22181.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="I-NeT Flix Live 7 HD" tvg-logo="" group-title="PELICULAS",I-NeT Flix Live 7 HD
+http://heinentv.ddns.me:25461/live/ACFLIX/mhgHOFLjp/22182.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="I-NeT Flix Live 8 HD" tvg-logo="" group-title="PELICULAS",I-NeT Flix Live 8 HD
+http://heinentv.ddns.me:25461/live/ACFLIX/mhgHOFLjp/22183.m3u8

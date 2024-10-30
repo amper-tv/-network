@@ -1,4 +1,44 @@
 #EXTM3U
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv/?deviceId=NjEyYzQ1MGItMGVjYi0zZTNjLThmMzktODBlMDJiZWI3OTE0&Authorization=eyJ0eXAiOiJKV1QiLCJraWQiOiJkYmMxZThjMy0xOTc3LTRiYjMtYWVmNy1lZjU0Yzg4MDI5OGMiLCJhbGciOiJFUzI1NiJ9.eyJzdWIiOiJzdGF0aWMiLCJpc3MiOiJJenppR28iLCJhdWQiOiJ1cm46dmVyaW1hdHJpeDp2ZGlzIiwianRpIjoiNjljNzM3M2MtZjhhNy01Yzk0LTk2MmQtYTMxNjc5MTBkYjNkIiwiaWF0IjoxNjU4MjAyMTA2LCJleHAiOjE3MjEzNjE3MTB9.60c2PyVYprdTE7bAsiqQgHSHSgLCovp9kX5oqOiqfaS_FmVrn_JvqhNyqjoZ9uboVXzsaUNhYfcZm64ULaSdfw
+#EXTINF:-1 tvg-id="Space.mx" tvg-name="SPACE Full HD Dual Audio" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQjWWDXO0TJG7VdgVmS6Iw6CQTNoWoIfwOgdIQ7Bzn7ceT9s1xX" group-title="CINE",SKY SPORTS HD
+http://live3-ott.izzigo.tv/out/u/dash/SKY-SPORTS-HD/default.mpd
+
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv/?deviceId=NjEyYzQ1MGItMGVjYi0zZTNjLThmMzktODBlMDJiZWI3OTE0&Authorization=eyJ0eXAiOiJKV1QiLCJraWQiOiJkYmMxZThjMy0xOTc3LTRiYjMtYWVmNy1lZjU0Yzg4MDI5OGMiLCJhbGciOiJFUzI1NiJ9.eyJzdWIiOiJzdGF0aWMiLCJpc3MiOiJJenppR28iLCJhdWQiOiJ1cm46dmVyaW1hdHJpeDp2ZGlzIiwianRpIjoiNjljNzM3M2MtZjhhNy01Yzk0LTk2MmQtYTMxNjc5MTBkYjNkIiwiaWF0IjoxNjU4MjAyMTA2LCJleHAiOjE3MjEzNjE3MTB9.60c2PyVYprdTE7bAsiqQgHSHSgLCovp9kX5oqOiqfaS_FmVrn_JvqhNyqjoZ9uboVXzsaUNhYfcZm64ULaSdfw
+#EXTINF:-1 tvg-id="Space.mx" tvg-name="SPACE Full HD Dual Audio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOSFuz3AzOWRZaBDNYBHfRi7hPWMsDzYi6vw&usqp=CAU" group-title="CINE",SKY SPORTS 16 HD
+https://live2-ott.izzigo.tv/out/u/dash/SKY-SPORTS-16-HD/default.mpd
+
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv/?deviceId=NjEyYzQ1MGItMGVjYi0zZTNjLThmMzktODBlMDJiZWI3OTE0&Authorization=eyJ0eXAiOiJKV1QiLCJraWQiOiJkYmMxZThjMy0xOTc3LTRiYjMtYWVmNy1lZjU0Yzg4MDI5OGMiLCJhbGciOiJFUzI1NiJ9.eyJzdWIiOiJzdGF0aWMiLCJpc3MiOiJJenppR28iLCJhdWQiOiJ1cm46dmVyaW1hdHJpeDp2ZGlzIiwianRpIjoiNjljNzM3M2MtZjhhNy01Yzk0LTk2MmQtYTMxNjc5MTBkYjNkIiwiaWF0IjoxNjU4MjAyMTA2LCJleHAiOjE3MjEzNjE3MTB9.60c2PyVYprdTE7bAsiqQgHSHSgLCovp9kX5oqOiqfaS_FmVrn_JvqhNyqjoZ9uboVXzsaUNhYfcZm64ULaSdfw
+#EXTINF:-1 tvg-id="Space.mx" tvg-name="SPACE Full HD Dual Audio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb6HOEutphjXK8WfDeGqPinRcL3qUR3oqciQ&s" group-title="CINE",SKY SPORTS 24 HD
+https://live5-ott.izzigo.tv/out/u/dash/SKY-SPORTS-24-HD/default.mpd
+
+
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv/?deviceId=NjEyYzQ1MGItMGVjYi0zZTNjLThmMzktODBlMDJiZWI3OTE0&Authorization=eyJ0eXAiOiJKV1QiLCJraWQiOiJkYmMxZThjMy0xOTc3LTRiYjMtYWVmNy1lZjU0Yzg4MDI5OGMiLCJhbGciOiJFUzI1NiJ9.eyJzdWIiOiJzdGF0aWMiLCJpc3MiOiJJenppR28iLCJhdWQiOiJ1cm46dmVyaW1hdHJpeDp2ZGlzIiwianRpIjoiNjljNzM3M2MtZjhhNy01Yzk0LTk2MmQtYTMxNjc5MTBkYjNkIiwiaWF0IjoxNjU4MjAyMTA2LCJleHAiOjE3MjEzNjE3MTB9.60c2PyVYprdTE7bAsiqQgHSHSgLCovp9kX5oqOiqfaS_FmVrn_JvqhNyqjoZ9uboVXzsaUNhYfcZm64ULaSdfw
+#EXTINF:-1 tvg-id="Space.mx" tvg-name="SPACE Full HD Dual Audio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz5C0wdUgNNYBJlkfq-Bo9nl_OJO3tNEIo2g&usqp=CAU" group-title="CINE",SKY SPORTS 21 HD
+https://live3-ott.izzigo.tv/out/u/dash/SKY-SPORTS-21-HD/default.mpd
+
+
+
+
+
+
 #EXTINF:-1,AZ Cinema
 https://azt-cin.otteravision.com/azt/cin/cin.m3u8
 #EXTINF:-1,AZ Clic

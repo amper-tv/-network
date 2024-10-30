@@ -46,6 +46,16 @@ https://live3-ott.izzigo.tv/out/u/dash/SKY-SPORTS-21-HD/default.mpd
 https://live3-ott.izzigo.tv/out/u/dash/SKY-SPORTS-HD/default.mpd
 
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8065/?deviceId=MDAwOGQ4NTMtMWE4ZC0zODE1LTllNjEtNDA4Zjg5OGI1YzMw
+#EXTINF:-1 tvg-id="XHDF(AztecaUno).mx" tvg-name="Azteca Uno" tvg-logo="https://logo.iptveditor.com/aztecauno.png" group-title="TV NACIONAL", SKY SPORTS 
+https://live3-ott.izzigo.tv/out/u/dash/SKY-SPORTS-HD/default.mpd
+
+
 
 #EXTINF:-1,AZ Cinema
 https://azt-cin.otteravision.com/azt/cin/cin.m3u8

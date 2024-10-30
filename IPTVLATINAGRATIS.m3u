@@ -36,6 +36,14 @@ https://live3-ott.izzigo.tv/out/u/dash/SKY-SPORTS-21-HD/default.mpd
 
 
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML group-title="Lista 28 solo OTT", like Gecko) Chrome/85.0.4183.83 Safari/537.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=ZjhmMzZhMzAtNmQ3NC0zY2ExLWE3NjQtYjRlOGE5NjlmMGE0&Authorization=eyJ0eXAiOiJKV1QiLCJraWQiOiJkYmMxZThjMy0xOTc3LTRiYjMtYWVmNy1lZjU0Yzg4MDI5OGMiLCJhbGciOiJFUzI1NiJ9.eyJzdWIiOiJzdGF0aWMiLCJpc3MiOiJJenppR28iLCJhdWQiOiJ1cm46dmVyaW1hdHJpeDp2ZGlzIiwianRpIjoiNjljNzM3M2MtZjhhNy01Yzk0LTk2MmQtYTMxNjc5MTBkYjNkIiwiaWF0IjoxNjU4MjAyMTA2LCJleHAiOjE3MjEzNjE3MTB9.60c2PyVYprdTE7bAsiqQgHSHSgLCovp9kX5oqOiqfaS_FmVrn_JvqhNyqjoZ9uboVXzsaUNhYfcZm64ULaSdfw
+#EXTINF:-1 tvg-id="XHDF(AztecaUno).mx" tvg-name="Azteca Uno" tvg-logo="https://logo.iptveditor.com/aztecauno.png" group-title="TV NACIONAL",Azteca Uno Full HD Monterrey Dual Audio
+https://live3-ott.izzigo.tv/out/u/dash/SKY-SPORTS-HD/default.mpd
 
 
 
